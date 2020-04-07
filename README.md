@@ -7,3 +7,13 @@ Where and how to use the ValueTask<TResult> can be found [here](https://docs.mic
 
 These metrics demonstrate the benefits that bring (or not), given that they are often used in this way. As a conclusion, I can say that the construction of the ValueTask is not useful for frivolous use, so you need to be especially careful about the choice. You can check it yourself, but I got the following results:
 
+![valuetaskvstask](images/valuetaskvstask.png)
+
+
+![valuetaskvstask2](images/valuetaskvstask2.png)
+
+
+![valuetaskvstask3](images/valuetaskvstask3.png)
+
+
+![valuetaskvstask4](images/valuetaskvstask4.png)
